@@ -1,0 +1,4 @@
+dev-configs/.bash/.bash_profile
+dev-configs/.ssh
+dev-configs/.gnupg
+dev-configs/lib/node_modules
