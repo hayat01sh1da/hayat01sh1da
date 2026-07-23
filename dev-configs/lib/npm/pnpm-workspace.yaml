@@ -1,0 +1,13 @@
+allowBuilds:
+  core-js: true
+  core-js-pure: true
+  esbuild: true
+  unrs-resolver: true
+overrides:
+  js-yaml@<4.2.0: ^4.2.0
+  uuid@<11.1.1: ^11.1.1
+allowedDeprecatedVersions:
+  glob: 7.2.3 || 10.5.0
+  inflight: 1.0.6
+minimumReleaseAgeExclude:
+  - postcss@8.5.20
